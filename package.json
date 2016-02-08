@@ -1,5 +1,5 @@
 {
-  "name": "mixpanel",
+  "name": "@sandfox/mixpanel",
   "description": "A simple server-side API for mixpanel",
   "keywords": [
     "mixpanel",
@@ -7,7 +7,7 @@
     "api",
     "stats"
   ],
-  "version": "0.3.2",
+  "version": "0.3.3",
   "homepage": "https://github.com/mixpanel/mixpanel-node",
   "author": "Carl Sverre",
   "main": "lib/mixpanel-node",
